@@ -260,7 +260,7 @@ from "@telegram-apps/sdk/dist/index.js";
 (function () {        
   window.telegramApps = window.telegramApps || {};
   window.telegramApps.sdk = window.telegramApps.sdk || {};
-  
-  window.telegramApps.sdk.shareURL = shareURL;
+
+  window.telegramApps.sdk.shareURL = shareURL; 
   
 })();
